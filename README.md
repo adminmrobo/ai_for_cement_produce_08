@@ -1,7 +1,7 @@
 # 시멘트 공정 AI 해설
 
 **AI를 활용한 시멘트 공정 최적화** 강의의 개념을 브라우저에서 직접 계산하며 익히는 인터랙티브 해설 페이지입니다.
-박사 · 조수(하루) · 초파리 연구원 · Money-Robo가 진행합니다.
+박사 · 조수(하루) · 초파리 연구원 · 주판봇이 진행합니다.
 
 글 · 안상선 ((주)M-Robo 대표) · Ahn Sangsun
 
@@ -77,6 +77,6 @@ GitHub Pages를 켜면 `index.html`이 목록 페이지가 됩니다.
 
 ## 저작권
 
-- 캐릭터(박사, 조수 하루, 초파리 연구원, Money-Robo)의 이름·설정·그림 © 안상선((주)M-Robo). 허락 없이 사용할 수 없습니다. 그림 출처: [fruitfly-lab-expressions](https://github.com/adminmrobo/fruitfly-lab-expressions) @ ea5da3f
+- 캐릭터(박사, 조수 하루, 초파리 연구원, 주판봇)의 이름·설정·그림 © 안상선. 허락 없이 사용할 수 없습니다. 그림 출처: [fruitfly-lab-expressions](https://github.com/adminmrobo/fruitfly-lab-expressions) @ ea5da3f
 - 페이지 본문과 코드의 라이선스: _(저자가 정해 채울 것)_
 - 제작 도구: [ai-lab-explainer](https://github.com/adminmrobo/ahnboat_lab_explainer)

@@ -36,12 +36,12 @@
 | 항목 | 내용 |
 |---|---|
 | 판 · 크기 | E · 1200×800 |
-| 구도 | 가운데 저울(시험체 vs 금화), 왼쪽 초파리(오른쪽 봄), 오른쪽 Money-Robo(왼쪽 봄), 뒤 가운데 박사, 오른쪽 옆 조수. 중요한 것은 위쪽 62% 안 |
+| 구도 | 가운데 저울(시험체 vs 나무 주판), 왼쪽 초파리(오른쪽 봄), 오른쪽 주판봇(왼쪽 봄), 뒤 가운데 박사, 오른쪽 옆 조수. 중요한 것은 위쪽 62% 안 |
 | 피할 것 | 승패 암시, 글자, 실존 브랜드 |
-| 대체 글 | 네 캐릭터가 시멘트 시험체와 금화를 단 저울을 바라보는 공장 관제실 장면 |
+| 대체 글 | 네 캐릭터가 시멘트 시험체와 나무 주판을 단 저울을 바라보는 공장 관제실 장면 |
 
 ```
-16-bit RPG style pixel art, bold dark outline, 2–3 tone shading, small highlights, consistent with the reference images, cozy night laboratory mood, purple light, soft magenta and green fluorescent accents, 3:2 landscape scene, medium brightness, night control room of a cement plant rendered as part of the same night lab world, a brass balance scale in the center with a grey concrete test cube on one pan and gold coins on the other, chibi scientist with thin teal rectangular glasses, spiky black hair with one white streak and a small ponytail, white lab coat over black vest and tie, standing at the back center with a hand on his chin, anthropomorphic fruit fly researcher with big red compound eyes and a blue helmet with a gold stripe and pink and blue cables, white lab coat over a black vest, black gloves, on the left facing right pointing at the cube, round white floating robot with short antenna, black face screen with yellow pixel eyes and a blue chest light, no legs, on the right facing left holding a gold coin, girl researcher with long pink hair in two round buns and a navy streak, white lab coat over lavender hoodie, jeans, at the side holding a blank tablet, no text, no letters, no numbers, no logos, no weapons, no cigarettes, no alcohol, no blood, no real brands
+16-bit RPG style pixel art, bold dark outline, 2–3 tone shading, small highlights, consistent with the reference images, cozy night laboratory mood, purple light, soft magenta and green fluorescent accents, 3:2 landscape scene, medium brightness, night control room of a cement plant rendered as part of the same night lab world, a brass balance scale in the center with a grey concrete test cube on one pan and wooden abacus beads on the other, chibi scientist with thin teal rectangular glasses, spiky black hair with one white streak and a small ponytail, white lab coat over black vest and tie, standing at the back center with a hand on his chin, anthropomorphic fruit fly researcher with big red compound eyes and a blue helmet with a gold stripe and pink and blue cables, white lab coat over a black vest, black gloves, on the left facing right pointing at the cube, JUPANBOT (AbaBot), the boxy beige retro CRT-monitor robot with a dark green screen face with mint pixel eyes and mouth, a short antenna topped with a red-brown abacus bead, gray segmented arms and two small tank treads, on the right facing left holding a wooden abacus, girl researcher with long pink hair in two round buns and a navy streak, white lab coat over lavender hoodie, jeans, at the side holding a blank tablet, no text, no letters, no numbers, no logos, no weapons, no cigarettes, no alcohol, no blood, no real brands, no white round robot head, no yellow or golden eyes, no floating robot, no gold coins
 ```
 
 ### 3-2. `cut_cs_lv4` — 보이지 않는 원인
@@ -59,23 +59,23 @@
 | 항목 | 내용 |
 |---|---|
 | 판 · 크기 | G · 960×540 |
-| 구도 | 바닥에 청록 점이 띠 모양으로 깔린 큰 지도. 한 개의 빨간 별이 띠 밖 어둠 속에서 반짝, Money-Robo가 그쪽으로 손을 뻗고 조수가 지도 가장자리 점선을 가리킴 |
-| 대체 글 | 학습 데이터 띠 밖에서 빛나는 최적점 별에 Money-Robo가 손을 뻗고 조수가 경계선을 가리키는 컷 |
+| 구도 | 바닥에 청록 점이 띠 모양으로 깔린 큰 지도. 한 개의 빨간 별이 띠 밖 어둠 속에서 반짝, 주판봇이 그쪽으로 손을 뻗고 조수가 지도 가장자리 점선을 가리킴 |
+| 대체 글 | 학습 데이터 띠 밖에서 빛나는 최적점 별에 주판봇이 손을 뻗고 조수가 경계선을 가리키는 컷 |
 
 ```
-16-bit RPG style pixel art, bold dark outline, 2–3 tone shading, small highlights, consistent with the reference images, cozy night laboratory mood, purple light, 16:9 illustration panel, a huge floor map covered with a diagonal band of small teal dots and a dashed boundary line, one red star glowing outside the band in the dark, round white floating robot with short antenna, black face screen with yellow pixel eyes, blue chest light, no legs, reaching toward the red star, girl researcher with long pink hair in two round buns and a navy streak, white lab coat over lavender hoodie, jeans, pointing at the dashed boundary, no text, no letters, no numbers, no logos, no weapons, no cigarettes, no alcohol, no blood, no real brands
+16-bit RPG style pixel art, bold dark outline, 2–3 tone shading, small highlights, consistent with the reference images, cozy night laboratory mood, purple light, 16:9 illustration panel, a huge floor map covered with a diagonal band of small teal dots and a dashed boundary line, one red star glowing outside the band in the dark, JUPANBOT (AbaBot), the boxy beige retro CRT-monitor robot with a dark green screen face with mint pixel eyes and mouth, a short antenna topped with a red-brown abacus bead, gray segmented arms and two small tank treads, reaching toward the red star, girl researcher with long pink hair in two round buns and a navy streak, white lab coat over lavender hoodie, jeans, pointing at the dashed boundary, no text, no letters, no numbers, no logos, no weapons, no cigarettes, no alcohol, no blood, no real brands, no white round robot head, no yellow or golden eyes, no floating robot, no gold coins
 ```
 
 ### 3-4. `sc_cs_outro` — 결과 후 (F 승)
 | 항목 | 내용 |
 |---|---|
 | 판 · 크기 | E · 1200×800 |
-| 구도 | 초파리가 앞에서 팔짱(자신만만), Money-Robo는 옆에서 한숨 쉬지만 금화 몇 개를 조수에게 건넴(인정하는 몸짓), 박사가 두 손에 보랏빛 불꽃, 조수가 웃으며 시험체를 든다. 뒤로 킬른 불빛 |
+| 구도 | 초파리가 앞에서 팔짱(자신만만), 주판봇은 옆에서 한숨 쉬지만 주판알 몇 개를 조수에게 건넴(인정하는 몸짓), 박사가 두 손에 보랏빛 불꽃, 조수가 웃으며 시험체를 든다. 뒤로 킬른 불빛 |
 | 피할 것 | 조롱, 글자 |
-| 대체 글 | 대결 뒤 초파리 연구원이 팔짱을 끼고, Money-Robo가 금화를 건네며 결과를 인정하는 아웃트로 장면 |
+| 대체 글 | 대결 뒤 초파리 연구원이 팔짱을 끼고, 주판봇이 주판알을 건네며 결과를 인정하는 아웃트로 장면 |
 
 ```
-16-bit RPG style pixel art, bold dark outline, 2–3 tone shading, small highlights, consistent with the reference images, cozy night laboratory mood, purple light, soft magenta and green fluorescent accents, 3:2 landscape scene, medium brightness, cement plant control room at night with a glowing kiln through the window, anthropomorphic fruit fly researcher with big red compound eyes, blue helmet with a gold stripe and cables, white lab coat over a black vest, black gloves, in front with arms crossed and a confident look, round white floating robot with yellow pixel eyes and a blue chest light, no legs, sighing but handing a few gold coins to the girl researcher with a good-sport gesture, girl researcher with long pink hair in two round buns and a navy streak, white lab coat over lavender hoodie, jeans, smiling and holding a concrete test cube, chibi scientist with thin teal rectangular glasses, black hair with one white streak, white lab coat over black vest and tie, purple sparks in both hands at the back, no text, no letters, no numbers, no logos, no weapons, no cigarettes, no alcohol, no blood, no real brands
+16-bit RPG style pixel art, bold dark outline, 2–3 tone shading, small highlights, consistent with the reference images, cozy night laboratory mood, purple light, soft magenta and green fluorescent accents, 3:2 landscape scene, medium brightness, cement plant control room at night with a glowing kiln through the window, anthropomorphic fruit fly researcher with big red compound eyes, blue helmet with a gold stripe and cables, white lab coat over a black vest, black gloves, in front with arms crossed and a confident look, JUPANBOT (AbaBot), the boxy beige retro CRT-monitor robot with a dark green screen face with mint pixel eyes and mouth, a short antenna topped with a red-brown abacus bead, gray segmented arms and two small tank treads, sighing but handing a few abacus beads to the girl researcher with a good-sport gesture, girl researcher with long pink hair in two round buns and a navy streak, white lab coat over lavender hoodie, jeans, smiling and holding a concrete test cube, chibi scientist with thin teal rectangular glasses, black hair with one white streak, white lab coat over black vest and tie, purple sparks in both hands at the back, no text, no letters, no numbers, no logos, no weapons, no cigarettes, no alcohol, no blood, no real brands, no white round robot head, no yellow or golden eyes, no floating robot, no gold coins
 ```
 
 ## 4. 일관성 지침
@@ -91,7 +91,7 @@
   "season": "default",
   "duel": {"result": "F", "gap": 0.425},
   "images": [
-    {"key":"cover_cs","plate":"L","size":[1920,1080],"status":"new","priority":"P1","slot":"cover","fallback":"css-pixel-four","alt":"밤의 시멘트 공장 관제실에서 네 캐릭터가 강도 시험체와 금화가 올라간 저울을 사이에 두고 마주한 표지"},
+    {"key":"cover_cs","plate":"L","size":[1920,1080],"status":"new","priority":"P1","slot":"cover","fallback":"css-pixel-four","alt":"밤의 시멘트 공장 관제실에서 네 캐릭터가 강도 시험체와 나무 주판이 올라간 저울을 사이에 두고 마주한 표지"},
     {"key":"sc_cs_hero","plate":"E","size":[1200,800],"status":"new","priority":"P1","slot":"hero-stage","fallback":"cover_cs"},
     {"key":"cut_cs_lv4","plate":"G","size":[960,540],"status":"new","priority":"P2","slot":"lv4"},
     {"key":"cut_cs_lv5","plate":"G","size":[960,540],"status":"new","priority":"P2","slot":"lv5"},
