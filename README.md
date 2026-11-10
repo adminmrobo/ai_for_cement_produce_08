@@ -1,3 +1,14 @@
+# 이 저장소는 옮겼습니다
+
+「무엇이 강도를 정하고, 얼마에 만들 것인가」은 강의 통합 저장소 **[AI_for_cement_produce](https://github.com/adminmrobo/AI_for_cement_produce)**의 `ch06_cost_function_optimization/`(ch06)로 옮겼습니다 (2026-11-10).
+
+- 새 주소: https://adminmrobo.github.io/AI_for_cement_produce/ch06_cost_function_optimization/
+- 강의 전체 목차: https://adminmrobo.github.io/AI_for_cement_produce/
+
+이 저장소의 공개 페이지는 새 주소로 자동 이동하는 안내 페이지만 남겨 두었습니다. 앞으로의 수정은 통합 저장소에서 합니다. 아래는 옮기기 전 README입니다.
+
+---
+
 # 시멘트 공정 AI 해설
 
 **AI를 활용한 시멘트 공정 최적화** 강의의 개념을 브라우저에서 직접 계산하며 익히는 인터랙티브 해설 페이지입니다.
